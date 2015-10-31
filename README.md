@@ -7,7 +7,7 @@ If I were to start from scratch I could take up to 2-3 Hours.  But I know a litt
 
 I have just created this Repository on GitHub, so in the future I will try to record the process I go through so it makes more sense to those that might be willing to help.  Fot the mean time I shall move on and continue my research.  
 
-I am aiming to make this cross platform and stand alone.  Everything saved within it's own directory.
+I am aiming to make this cross platform and stand alone (not sure what coding is necessary, maybe C#).  Everything saved within it's own directory.
 
 Thank You for reading,
 -JMoulton3D
